@@ -6,9 +6,14 @@ Ainda não possuo toda a experiência que eu gostaria na área de desenvolviment
 
 Gosto de separar o meu tempo com sabedoria, estudo, trabalho, lazer e família. 
 
-<img src="https://camo.githubusercontent.com/d38e6cc39779250a2835bf8ed3a72d10dbe3b05fa6527baa3f6f1e8e8bd056bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
-<img src="https://camo.githubusercontent.com/ad5e15d135e0e177bda23d5d88ccc1db6b88cdbe22c6d0cd3906a1c1d0eab596/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c696e672d426f6f7473747261702d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"
-<img src="https://camo.githubusercontent.com/efbe2f30a775fb3e504cf89721219e64899144b952a69b2f16a50edf68dcf2c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c696e672d4373732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
-<img src="https://camo.githubusercontent.com/98b8e4508fbe4d492cde50d69d88e4b27c788b61754be1aed3273e065e003f74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d5653436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
-<img src="https://camo.githubusercontent.com/1b6072a696723f89a22f80f9a1cb318de14a6e35c78048c1cb1aa34633581cff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4769742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
-<img src="https://camo.githubusercontent.com/696dc1f001c6a176f1699579f7ab26c8191c64dacab4954f8b0d854c94ce5cf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44617461626173652d4d7953716c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
+<p align="left" dir="auto">
+  <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> Linguagens: <strong> C#, Python, HTML, CSS, Javascript</strong>
+</p>
+
+<p align="left" dir="auto">
+  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Ferramentas: <strong>VS Code, MySQL, GitHub.</strong>
+</p>
+
+<p align="left" dir="auto">
+  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💻</g-emoji> Frameworks: <strong> Angular, .NET CORE, Bootstrap</strong>
+</p>
