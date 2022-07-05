@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @MatheusJosue
+Olá, meu nome é Matheus Cerqueira, Estou estudando e me tornando um Desenvolvedor Full Stack!.
+
+Estudo na Faculdade Impacta (cursando 3º Semestre) e busco por oportunidades para aplicar os conhecimento adquiridos!
+
+Ainda não possuo toda a experiência que eu gostaria na área de desenvolvimento, porém por trabalhar na 7COMm me proporcionou ter bastante contato na prática com Projetos.
+
+Gosto de separar o meu tempo com sabedoria, estudo, trabalho, lazer e família. 
+
 <img src="https://camo.githubusercontent.com/d38e6cc39779250a2835bf8ed3a72d10dbe3b05fa6527baa3f6f1e8e8bd056bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
 <img src="https://camo.githubusercontent.com/ad5e15d135e0e177bda23d5d88ccc1db6b88cdbe22c6d0cd3906a1c1d0eab596/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c696e672d426f6f7473747261702d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"
 <img src="https://camo.githubusercontent.com/efbe2f30a775fb3e504cf89721219e64899144b952a69b2f16a50edf68dcf2c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c696e672d4373732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
