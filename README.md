@@ -1,8 +1,8 @@
 Olá, meu nome é Matheus Cerqueira, Estou estudando e me tornando um Desenvolvedor Full Stack!.
 
-Estudo na Faculdade Impacta (cursando 3º Semestre) e busco por oportunidades para aplicar os conhecimento adquiridos!
+Estudo na Faculdade Impacta (cursando 5º e ultimmo Semestre) e busco por oportunidades para aplicar os conhecimento adquiridos!
 
-Ainda não possuo toda a experiência que eu gostaria na área de desenvolvimento, porém trabalhar na 7COMm me proporcionou ter bastante contato na prática com Projetos.
+Ainda não possuo toda a experiência que eu gostaria na área de desenvolvimento, porém trabalhar na 7COMm e na Ledi Soluções me proporcionou ter bastante contato na prática com Projetos.
 
 Gosto de separar o meu tempo com sabedoria, estudo, trabalho, lazer e família. 
 
