@@ -4,7 +4,7 @@ O meu nome é Matheus Josué Xavier Cerqueira e sou um desenvolvedor altamente m
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/matheusjxc/) 
-[![Whatsapp](https://img.shields.io/badge/whatsapp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=952438640&text=Ol%C3%A1%20Matheus,%20tudo%20bem?%20Vi%20seu%20portif%C3%B3lio%20no%20GitHub,%20podemos%20conversar?) 
+[![Whatsapp](https://img.shields.io/badge/whatsapp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=939485971&text=Ol%C3%A1%20Matheus,%20tudo%20bem?%20Vi%20seu%20portif%C3%B3lio%20no%20GitHub,%20podemos%20conversar?) 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusxaviercerqueira/) 
 
 # 💻 Tech Stack:
